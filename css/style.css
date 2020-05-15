@@ -1,0 +1,14 @@
+#main{
+    background: white;
+}
+
+#title{
+    text-align: center;
+    background: #e1e1e1;
+    padding: 20px 0 5px;
+    margin-top: 40px;
+}
+
+#title h1{
+    font-size: 25px;
+}
