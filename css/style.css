@@ -1,14 +1,20 @@
-#main{
+#main {
     background: white;
 }
 
-#title{
+#title {
     text-align: center;
     background: #e1e1e1;
     padding: 20px 0 5px;
     margin-top: 40px;
 }
 
-#title h1{
+#title h1 {
     font-size: 25px;
+}
+
+#img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
