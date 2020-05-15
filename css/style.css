@@ -14,7 +14,18 @@
 }
 
 #img-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    padding: 50px;
+}
+
+#img-div img{
+    width: 100%;
+
+}
+#tribute-info{
+    width: 40%;
+    margin: auto;
+}
+#tribute-info h4{
+    text-align: center;
 }
