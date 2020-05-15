@@ -18,14 +18,19 @@
     padding: 50px;
 }
 
-#img-div img{
+#img-div img {
     width: 100%;
-
 }
-#tribute-info{
+
+#tribute-info {
     width: 40%;
     margin: auto;
 }
-#tribute-info h4{
+
+#tribute-info h4 {
     text-align: center;
+}
+
+#tribute-info ul li {
+    margin-bottom: 15px;
 }
